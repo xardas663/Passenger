@@ -1,0 +1,38 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "e90376103ca84d4fca555606a239377cbb45e76d"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "passenger.core/1.0.0": {
+        "dependencies": {
+          "Autofac": "4.6.1"
+        },
+        "runtime": {
+          "Passenger.Core.dll": {}
+        }
+      },
+      "autofac/4.6.1": {
+        "runtime": {
+          "lib/netstandard1.1/Autofac.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "passenger.core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "autofac/4.6.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/feXiAKiSe9XLK+fdnz0p1iDg6JCkOhjqMkw9ewGy0f6IzXgmPLDRa4FUg6nIGRm2sTO677w/76uJ5OJU6EiyA==",
+      "path": "autofac/4.6.1",
+      "hashPath": "autofac.4.6.1.nupkg.sha512"
+    }
+  }
+}

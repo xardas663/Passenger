@@ -1,0 +1,17 @@
+C:\Users\Wojtek\source\repos\Passenger\Passenger.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Wojtek\source\repos\Passenger\Passenger.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Wojtek\source\repos\Passenger\Passenger.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Wojtek\source\repos\Passenger\Passenger.Tests\bin\Debug\netcoreapp1.1\Passenger.Tests.deps.json
+C:\Users\Wojtek\source\repos\Passenger\Passenger.Tests\bin\Debug\netcoreapp1.1\Passenger.Tests.runtimeconfig.json
+C:\Users\Wojtek\source\repos\Passenger\Passenger.Tests\bin\Debug\netcoreapp1.1\Passenger.Tests.runtimeconfig.dev.json
+C:\Users\Wojtek\source\repos\Passenger\Passenger.Tests\bin\Debug\netcoreapp1.1\Passenger.Tests.dll
+C:\Users\Wojtek\source\repos\Passenger\Passenger.Tests\bin\Debug\netcoreapp1.1\Passenger.Tests.pdb
+C:\Users\Wojtek\source\repos\Passenger\Passenger.Tests\obj\Debug\netcoreapp1.1\Passenger.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Wojtek\source\repos\Passenger\Passenger.Tests\obj\Debug\netcoreapp1.1\Passenger.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Wojtek\source\repos\Passenger\Passenger.Tests\obj\Debug\netcoreapp1.1\Passenger.Tests.AssemblyInfo.cs
+C:\Users\Wojtek\source\repos\Passenger\Passenger.Tests\obj\Debug\netcoreapp1.1\Passenger.Tests.dll
+C:\Users\Wojtek\source\repos\Passenger\Passenger.Tests\obj\Debug\netcoreapp1.1\Passenger.Tests.pdb
+C:\Users\Wojtek\source\repos\Passenger\Passenger.Tests\bin\Debug\netcoreapp1.1\Passenger.Core.dll
+C:\Users\Wojtek\source\repos\Passenger\Passenger.Tests\bin\Debug\netcoreapp1.1\Passenger.Core.pdb
+C:\Users\Wojtek\source\repos\Passenger\Passenger.Tests\bin\Debug\netcoreapp1.1\Passenger.Infrastructure.dll
+C:\Users\Wojtek\source\repos\Passenger\Passenger.Tests\bin\Debug\netcoreapp1.1\Passenger.Infrastructure.pdb

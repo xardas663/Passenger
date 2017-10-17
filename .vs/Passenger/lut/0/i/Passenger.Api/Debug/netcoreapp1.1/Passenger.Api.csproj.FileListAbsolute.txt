@@ -1,0 +1,11 @@
+C:\Users\Wojtek\source\repos\Passenger\.vs\Passenger\lut\0\b\Passenger.Api\Debug\netcoreapp1.1\appsettings.json
+C:\Users\Wojtek\source\repos\Passenger\.vs\Passenger\lut\0\b\Passenger.Api\Debug\netcoreapp1.1\Passenger.Api.deps.json
+C:\Users\Wojtek\source\repos\Passenger\.vs\Passenger\lut\0\b\Passenger.Api\Debug\netcoreapp1.1\Passenger.Api.runtimeconfig.json
+C:\Users\Wojtek\source\repos\Passenger\.vs\Passenger\lut\0\b\Passenger.Api\Debug\netcoreapp1.1\Passenger.Api.runtimeconfig.dev.json
+C:\Users\Wojtek\source\repos\Passenger\.vs\Passenger\lut\0\b\Passenger.Api\Debug\netcoreapp1.1\Passenger.Api.dll
+C:\Users\Wojtek\source\repos\Passenger\.vs\Passenger\lut\0\b\Passenger.Api\Debug\netcoreapp1.1\Passenger.Api.pdb
+C:\Users\Wojtek\source\repos\Passenger\.vs\Passenger\lut\0\i\Passenger.Api\Debug\netcoreapp1.1\Passenger.Api.csprojResolveAssemblyReference.cache
+C:\Users\Wojtek\source\repos\Passenger\.vs\Passenger\lut\0\i\Passenger.Api\Debug\netcoreapp1.1\Passenger.Api.csproj.CoreCompileInputs.cache
+C:\Users\Wojtek\source\repos\Passenger\.vs\Passenger\lut\0\i\Passenger.Api\Debug\netcoreapp1.1\Passenger.Api.AssemblyInfo.cs
+C:\Users\Wojtek\source\repos\Passenger\.vs\Passenger\lut\0\i\Passenger.Api\Debug\netcoreapp1.1\Passenger.Api.dll
+C:\Users\Wojtek\source\repos\Passenger\.vs\Passenger\lut\0\i\Passenger.Api\Debug\netcoreapp1.1\Passenger.Api.pdb

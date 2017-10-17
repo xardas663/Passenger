@@ -1,0 +1,10 @@
+C:\Users\Wojtek\source\repos\Passenger\Passenger.Infrastructure\bin\Debug\netcoreapp1.1\Passenger.Infrastructure.deps.json
+C:\Users\Wojtek\source\repos\Passenger\Passenger.Infrastructure\bin\Debug\netcoreapp1.1\Passenger.Infrastructure.dll
+C:\Users\Wojtek\source\repos\Passenger\Passenger.Infrastructure\bin\Debug\netcoreapp1.1\Passenger.Infrastructure.pdb
+C:\Users\Wojtek\source\repos\Passenger\Passenger.Infrastructure\obj\Debug\netcoreapp1.1\Passenger.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Wojtek\source\repos\Passenger\Passenger.Infrastructure\obj\Debug\netcoreapp1.1\Passenger.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Wojtek\source\repos\Passenger\Passenger.Infrastructure\obj\Debug\netcoreapp1.1\Passenger.Infrastructure.AssemblyInfo.cs
+C:\Users\Wojtek\source\repos\Passenger\Passenger.Infrastructure\obj\Debug\netcoreapp1.1\Passenger.Infrastructure.dll
+C:\Users\Wojtek\source\repos\Passenger\Passenger.Infrastructure\obj\Debug\netcoreapp1.1\Passenger.Infrastructure.pdb
+C:\Users\Wojtek\source\repos\Passenger\Passenger.Infrastructure\bin\Debug\netcoreapp1.1\Passenger.Core.dll
+C:\Users\Wojtek\source\repos\Passenger\Passenger.Infrastructure\bin\Debug\netcoreapp1.1\Passenger.Core.pdb

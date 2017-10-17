@@ -1,0 +1,14 @@
+C:\Users\Wojtek\source\repos\Passenger\.vs\Passenger\lut\0\b\Passenger.TestsEndToEnd\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Wojtek\source\repos\Passenger\.vs\Passenger\lut\0\b\Passenger.TestsEndToEnd\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Wojtek\source\repos\Passenger\.vs\Passenger\lut\0\b\Passenger.TestsEndToEnd\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Wojtek\source\repos\Passenger\.vs\Passenger\lut\0\b\Passenger.TestsEndToEnd\Debug\netcoreapp1.1\appsettings.json
+C:\Users\Wojtek\source\repos\Passenger\.vs\Passenger\lut\0\b\Passenger.TestsEndToEnd\Debug\netcoreapp1.1\Passenger.TestsEndToEnd.deps.json
+C:\Users\Wojtek\source\repos\Passenger\.vs\Passenger\lut\0\b\Passenger.TestsEndToEnd\Debug\netcoreapp1.1\Passenger.TestsEndToEnd.runtimeconfig.json
+C:\Users\Wojtek\source\repos\Passenger\.vs\Passenger\lut\0\b\Passenger.TestsEndToEnd\Debug\netcoreapp1.1\Passenger.TestsEndToEnd.runtimeconfig.dev.json
+C:\Users\Wojtek\source\repos\Passenger\.vs\Passenger\lut\0\b\Passenger.TestsEndToEnd\Debug\netcoreapp1.1\Passenger.TestsEndToEnd.dll
+C:\Users\Wojtek\source\repos\Passenger\.vs\Passenger\lut\0\b\Passenger.TestsEndToEnd\Debug\netcoreapp1.1\Passenger.TestsEndToEnd.pdb
+C:\Users\Wojtek\source\repos\Passenger\.vs\Passenger\lut\0\i\Passenger.TestsEndToEnd\Debug\netcoreapp1.1\Passenger.TestsEndToEnd.csprojResolveAssemblyReference.cache
+C:\Users\Wojtek\source\repos\Passenger\.vs\Passenger\lut\0\i\Passenger.TestsEndToEnd\Debug\netcoreapp1.1\Passenger.TestsEndToEnd.csproj.CoreCompileInputs.cache
+C:\Users\Wojtek\source\repos\Passenger\.vs\Passenger\lut\0\i\Passenger.TestsEndToEnd\Debug\netcoreapp1.1\Passenger.TestsEndToEnd.AssemblyInfo.cs
+C:\Users\Wojtek\source\repos\Passenger\.vs\Passenger\lut\0\i\Passenger.TestsEndToEnd\Debug\netcoreapp1.1\Passenger.TestsEndToEnd.dll
+C:\Users\Wojtek\source\repos\Passenger\.vs\Passenger\lut\0\i\Passenger.TestsEndToEnd\Debug\netcoreapp1.1\Passenger.TestsEndToEnd.pdb
